@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wifi Direct P2P Demo</string>
+    <string name="wifiisoff">Wifi is Off</string>
+</resources>
